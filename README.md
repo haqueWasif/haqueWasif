@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=250&section=header&text=Wasiful%20Haque&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Math%20Student&descAlignY=55&descAlign=50"/>
 </p>
 
