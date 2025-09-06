@@ -43,10 +43,10 @@ Building trading systems, researching quantitative strategies, and exploring mac
 
 | Project | Description | Tech Stack | Link |
 |--------|------------|------------|------|
-| **📊 FVG Strategy Bot** | Detects Fair Value Gaps & sends Telegram alerts | Python · MT5 · Django | [🔗 View Project](https://github.com/haqueWasif/fvg-bot) |
-| **🤖 Arbitrage Trading Bot** | Cross-exchange arbitrage with real-time PnL tracking | Python · PostgreSQL · Binance API | [🔗 View Project](https://github.com/haqueWasif/arbitrage-bot) |
-| **📈 Quantitative Dashboard** | Django-powered dashboard for stock & forex stats | Django · PostgreSQL · Plotly | [🔗 View Project](https://github.com/haqueWasif/quant-dashboard) |
-| **🎮 Game of Life Simulation** | Conway’s Game of Life implemented in C++ & Python | C++ · Python | [🔗 View Project](https://github.com/haqueWasif/game-of-life) |
+| **📊 FVG Trading Strategy Bot** | Detects Fair Value Gaps & sends real-time Telegram alerts | Python · Django · MT5 | [🔗 View Project](https://github.com/haqueWasif/FVG-Trading-Strategy-Bot) |
+| **🤖 Arbitrage Trading Bot** | Cross-exchange arbitrage with real-time PnL tracking | Python · PostgreSQL · Binance API | [🔗 View Project](https://github.com/haqueWasif/Arbitrage-Bot) |
+| **📈 MA Crossover Strategy using LSTM** | Uses LSTMs for moving average crossover trading strategy | Python · TensorFlow · LSTM | [🔗 View Project](https://github.com/haqueWasif/MA-Crossover-Strategy-Using-LSTM) |
+| **🎮 Game of Life Simulation** | Conway’s Game of Life implemented in C++ & Python | C++ · Python | [🔗 View Project](https://github.com/haqueWasif/Game-Of-Life) |
 
 ---
 
