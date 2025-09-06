@@ -13,7 +13,7 @@ Building trading systems, researching quantitative strategies, and exploring mac
 ## 👨‍💻 About Me  
 - 🎓 **Applied Mathematics Student** — *University of Dhaka*  
 - 📈 Focused on **Algorithmic Trading**, **Quantitative Research**, and **Machine Learning**  
-- 💻 Skilled in **Python**, **Django**, **PostgreSQL**, **MySQL**, **C++**, **MATLAB**  
+- 💻 Skilled in **Python**,  **C++**, **MATLAB**, **Mathematica**, **Fortran**, **Javascript**
 - 🔍 Exploring **backtesting frameworks**, **risk management systems**, and **data-driven trading strategies**  
 - 📧 Reach me at: **haquewasiful2014@gmail.com**
 
