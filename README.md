@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=240&section=header&text=Wasiful%20Haque&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Math%20Student%20%7C%20Algo%20Trading%20%26%20Deep%20Learning&descAlignY=54&descAlign=50"/>
+  <img src="https://img.shields.io/badge/Wasiful%20Haque-Applied%20Math%20%7C%20Algo%20Trading%20%26%20Deep%20Learning-1e90ff?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 # 🌟 About Me
