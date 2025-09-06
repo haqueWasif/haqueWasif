@@ -2,19 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00c4ff&height=220&section=header&text=Wasiful%20Haque&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h2 align="center">🚀 Aspiring Quantitative Trader | Machine Learning Enthusiast</h2>
+<h2 align="center">🚀 Quantitative Trader | Algorithmic Systems Developer | Machine Learning Enthusiast</h2>
 
 <p align="center">
-Building trading systems, researching quantitative strategies, and exploring machine learning to analyze financial markets.
+Building advanced trading systems, quantitative models, and AI-powered trading strategies to analyze and execute in the financial markets.
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 - 🎓 **Applied Mathematics Student** — *University of Dhaka*  
-- 📈 Focused on **Algorithmic Trading**, **Quantitative Research**, and **Machine Learning**  
-- 💻 Skilled in **Python**,  **C++**, **MATLAB**, **Mathematica**, **Fortran**, **Javascript**
-- 🔍 Exploring **backtesting frameworks**, **risk management systems**, and **data-driven trading strategies**  
+- 📈 Specialized in **Algorithmic Trading** & **Quantitative Research**  
+- 💻 Skilled in **Python**, **Django**, **PostgreSQL**, **MySQL**, **C++**, **MATLAB**, **MQL5**  
+- 🔍 Experienced in **automated trading bots**, **backtesting**, **risk management**, and **AI-driven forecasting**  
+- 🏆 Successfully **passed funded trading account challenges** and managed algorithmic strategies  
 - 📧 Reach me at: **haquewasiful2014@gmail.com**
 
 ---
@@ -34,8 +35,25 @@ Building trading systems, researching quantitative strategies, and exploring mac
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,cpp,matlab,git,github" height="70" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,cpp,matlab,git,github" height="65" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MetaTrader%205-2D9CDB?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5-00599C?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/TradingView-1F8ACB?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCXT-FF9800?style=for-the-badge&logo=bitcoin&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Trading Achievements  
+
+- ✅ **Passed multiple funded account challenges**  
+- ✅ Developed **high-frequency trading bots** for EUR/USD & BTC/USD  
+- ✅ Built **Fair Value Gap (FVG)** & **Supply-Demand zone** detection algorithms  
+- ✅ Designed **custom risk management models**  
+- ✅ Integrated **MT5**, **TradingView Webhooks**, and **Telegram Alerts**
 
 ---
 
@@ -43,9 +61,9 @@ Building trading systems, researching quantitative strategies, and exploring mac
 
 | Project | Description | Tech Stack | Link |
 |--------|------------|------------|------|
-| **📊 FVG Trading Strategy Bot** | Detects Fair Value Gaps & sends real-time Telegram alerts | Python · Django · MT5 | [🔗 View Project](https://github.com/haqueWasif/FVG-Trading-Strategy-Bot) |
-| **🤖 Arbitrage Trading Bot** | Cross-exchange arbitrage with real-time PnL tracking | Python · PostgreSQL · Binance API | [🔗 View Project](https://github.com/haqueWasif/Arbitrage-Bot) |
-| **📈 MA Crossover Strategy using LSTM** | Uses LSTMs for moving average crossover trading strategy | Python · TensorFlow · LSTM | [🔗 View Project](https://github.com/haqueWasif/MA-Crossover-Strategy-Using-LSTM) |
+| **📊 FVG Trading Strategy Bot** | Detects Fair Value Gaps & sends real-time Telegram alerts | Python · Django · MT5 · MQL5 | [🔗 View Project](https://github.com/haqueWasif/FVG-Trading-Strategy-Bot) |
+| **🤖 Arbitrage Trading Bot** | Cross-exchange arbitrage with real-time PnL tracking | Python · PostgreSQL · Binance API · CCXT | [🔗 View Project](https://github.com/haqueWasif/Arbitrage-Bot) |
+| **📈 MA Crossover Strategy using LSTM** | Uses LSTMs for moving average crossover trading | Python · TensorFlow · LSTM | [🔗 View Project](https://github.com/haqueWasif/MA-Crossover-Strategy-Using-LSTM) |
 | **🎮 Game of Life Simulation** | Conway’s Game of Life implemented in C++ & Python | C++ · Python | [🔗 View Project](https://github.com/haqueWasif/Game-Of-Life) |
 
 ---
