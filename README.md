@@ -1,51 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=230&section=header&text=Wasiful%20Haque&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Quantitative%20Trader%20|%20Machine%20Learning%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00c4ff&height=220&section=header&text=Wasiful%20Haque&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-# 👋 Hi, I'm Wasiful Haque  
-
-> Applied Mathematics student at **University of Dhaka** | Passionate about **Algorithmic Trading**, **Machine Learning**, and **Quantitative Research**.
-
----
-
-## 🚀 About Me
-- 🎓 Pursuing **B.Sc. in Applied Mathematics** at **University of Dhaka**  
-- 📈 Building **algorithmic trading bots** and **ML-powered trading strategies**  
-- 💻 Languages & Tools: **Python**, **C++**, **Django**, **PostgreSQL**, **MySQL**, **MATLAB**  
-- 🧠 Interests: **Quantitative Finance**, **Deep Learning**, **Backtesting**, **Data Science**  
-- 📫 Email: **haquewasiful2014@gmail.com**
-
----
-
-## 🌐 Socials
+<h2 align="center">🚀 Aspiring Quantitative Trader | Machine Learning Enthusiast</h2>
 
 <p align="center">
-  <a href="mailto:haquewasiful2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/Black.Goku01/"><img src="https://img.shields.io/badge/Facebook-1e90ff?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://github.com/haqueWasif"><img src="https://img.shields.io/badge/GitHub-1e90ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/HaqueWasif"><img src="https://img.shields.io/badge/Codeforces-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/haquewasif01"><img src="https://img.shields.io/badge/CodeChef-1e90ff?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+Building trading systems, researching quantitative strategies, and exploring machine learning to analyze financial markets.
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me  
+- 🎓 **Applied Mathematics Student** — *University of Dhaka*  
+- 📈 Focused on **Algorithmic Trading**, **Quantitative Research**, and **Machine Learning**  
+- 💻 Skilled in **Python**, **Django**, **PostgreSQL**, **MySQL**, **C++**, **MATLAB**  
+- 🔍 Exploring **backtesting frameworks**, **risk management systems**, and **data-driven trading strategies**  
+- 📧 Reach me at: **haquewasiful2014@gmail.com**
+
+---
+
+## 🌐 Connect with Me  
 
 <p align="center">
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img alt="MATLAB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/>
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <a href="mailto:haquewasiful2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/haqueWasif"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/Black.Goku01/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/HaqueWasif"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/haquewasif01"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
-**Backend & APIs**: Django (DRF), Celery, Redis  
-**Databases**: PostgreSQL, MySQL  
-**ML & Data Science**: scikit-learn, PyTorch, NumPy, pandas  
-**Trading & Backtesting**: MetaTrader 5, CCXT, Backtrader  
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,cpp,matlab,git,github" height="70" />
+</p>
 
 ---
 
@@ -55,16 +45,16 @@
 |--------|------------|------------|------|
 | **📊 FVG Strategy Bot** | Detects Fair Value Gaps & sends Telegram alerts | Python · MT5 · Django | [🔗 View Project](https://github.com/haqueWasif/fvg-bot) |
 | **🤖 Arbitrage Trading Bot** | Cross-exchange arbitrage with real-time PnL tracking | Python · PostgreSQL · Binance API | [🔗 View Project](https://github.com/haqueWasif/arbitrage-bot) |
-| **📈 Quantitative Analysis Dashboard** | Django-powered dashboard for market stats | Django · PostgreSQL · Plotly | [🔗 View Project](https://github.com/haqueWasif/quant-dashboard) |
+| **📈 Quantitative Dashboard** | Django-powered dashboard for stock & forex stats | Django · PostgreSQL · Plotly | [🔗 View Project](https://github.com/haqueWasif/quant-dashboard) |
 | **🎮 Game of Life Simulation** | Conway’s Game of Life implemented in C++ & Python | C++ · Python | [🔗 View Project](https://github.com/haqueWasif/game-of-life) |
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haqueWasif&show_icons=true&theme=tokyonight&hide_border=true&title_color=1e90ff&icon_color=1e90ff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqueWasif&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haqueWasif&show_icons=true&theme=tokyonight&hide_border=true&title_color=1e90ff&icon_color=1e90ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqueWasif&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff" height="165" />
 </p>
 
 <p align="center">
@@ -81,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c4ff,100:1e90ff&height=120&section=footer"/>
 </p>
