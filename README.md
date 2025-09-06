@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=240&section=header&text=Wasiful%20Haque&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Math%20Student%20|%20Algo%20Trading%20%26%20Deep%20Learning&descAlignY=54&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=240&section=header&text=Wasiful%20Haque&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Math%20Student%20%7C%20Algo%20Trading%20%26%20Deep%20Learning&descAlignY=54&descAlign=50"/>
 </p>
 
 # 🌟 About Me
