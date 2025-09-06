@@ -2,47 +2,57 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=250&section=header&text=Wasiful%20Haque&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Quantitative%20Trader&descAlignY=55&descAlign=50"/>
 </p>
 
+# Wasiful Haque — Aspiring Quantitative Trader
 
-## 🌟 About Me  
-
-- 🎓 **Applied Mathematics** student at **University of Dhaka**  
-- 📚 Currently exploring **Algorithmic Trading & Deep Learning**  
-- 💻 Skilled in **C++, Python, Mathematica, MATLAB, JavaScript**  
-- 🌐 Familiar with **Backend & Frontend basics** (APIs, Web apps)  
-- 🧠 Passionate about **Machine Learning, Deep Learning / AI, Quantitative Trading**  
-- 📫 Reach me at **haquewasiful2014@gmail.com**  
-- ⚡ Fun fact: *I enjoy building systems that can impact investment decisions*  
+> Applied Mathematics student at University of Dhaka • Building algorithmic trading systems & ML tools
 
 ---
 
-## 🌐 Connect with Me  
+## 🔭 About Me
+- 🎓 **Applied Mathematics** — University of Dhaka  
+- 💼 Building systems in **algorithmic trading**, **quantitative research**, and **deep learning**  
+- 💻 Languages & tools: **C++ · Python · MATLAB · Mathematica · JavaScript**  
+- 🧠 Interests: **Machine Learning, Deep Learning, Quantitative Trading, Risk Management**  
+- 📫 Email: haquewasiful2014@gmail.com
+
+---
+
+## 🌐 Socials & Contact
 
 <p align="center">
-  <a href="mailto:haquewasiful2014@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/Black.Goku01/" target="blank"><img src="https://img.shields.io/badge/Facebook-1e90ff?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://github.com/haqueWasif" target="blank"><img src="https://img.shields.io/badge/GitHub-1e90ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/HaqueWasif" target="blank"><img src="https://img.shields.io/badge/Codeforces-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/haquewasif01" target="blank"><img src="https://img.shields.io/badge/CodeChef-1e90ff?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="mailto:haquewasiful2014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/Black.Goku01/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1e90ff?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/haqueWasif" target="_blank"><img src="https://img.shields.io/badge/GitHub-1e90ff?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/HaqueWasif" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/haquewasif01" target="_blank"><img src="https://img.shields.io/badge/CodeChef-1e90ff?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="center"> 
-<a íhref="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://matlab.mathworks.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a> 
+## 🛠️ Skills & Tech (cleaned up)
+
+<p align="center">
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36"/>
+  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
+  <img alt="MATLAB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="36" height="36"/>
+  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="36" height="36"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36"/>
+  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/>
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36"/>
+  <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36"/>
 </p>
+
+**What I use for production / projects**
+- Backend: **Django** (REST APIs, background tasks with Celery/RQ)
+- Databases: **PostgreSQL** (primary), **MySQL** (when project/workflow needs it)
+- ML & Data: **Python**, **NumPy**, **pandas**, **scikit-learn**, **PyTorch**
+- Trading: MT5 integration, exchange APIs, backtesting frameworks
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haqueWasif&label=Profile%20views&color=1e90ff&style=flat" alt="Profile views" />
 </p>
@@ -56,32 +66,40 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haqueWasif&theme=tokyonight&hide_border=true&ring=1e90ff&currStreakLabel=1e90ff" alt="GitHub Streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haqueWasif&theme=react-dark&hide_border=true&area=true&color=1e90ff&line=1e90ff&point=1e90ff" alt="Contribution Graph"/>
-</p>
+---
+
+## 🚀 Featured Projects
+
+- **Game of Life** — Cellular automata simulation (C++ / Python)  
+- **Arbitrage Trading Bot** — Cross-exchange arbitrage with risk controls (Python)  
+- **FVG Strategy Bot** — Fair Value Gap detection & trading signals (MT5 + Python)
 
 ---
 
-## 🚀 Featured Projects  
+## 🗂️ Example Project Stack (how I build things)
 
-- 🎮 **Game of Life** → Simulation project exploring cellular automata  
-- 🤖 **Arbitrage Trading Bot** → Cross-exchange arbitrage with risk controls  
-- 📊 **FVG Strategy Bot** → Algo bot detecting Fair Value Gaps for entries/exits  
+**Algo trading backend**
+- Django REST API for signal management and account integration  
+- PostgreSQL for historical ticks, positions, and backtest storage  
+- Celery + Redis for background tasks (data ingestion, backtests)  
+- Docker for reproducible deployments
+
+**ML / research**
+- Jupyter notebooks for EDA and experiments  
+- PyTorch / scikit-learn for models  
+- Store features & model outputs in PostgreSQL or cloud storage
 
 ---
 
-## 🏆 Competitive Programming  
-
-- 💡 **Codeforces:** Pupil 🟢  
-- ⭐ **CodeChef:** 3 Star ★★★  
+## 🏆 Competitive Programming
+- Codeforces: Pupil 🟢  
+- CodeChef: 3 Star ★★★
 
 ---
 
-## ✨ Fun Facts  
-- ⚡ Passionate about blending **math, algorithms, and markets** to create intelligent trading systems  
-- 📊 Trader mindset: pattern recognition, risk management, and strategy optimization  
-- ☕ Fueled by coffee during intense market analysis and coding marathons  
-- 🧩 Always exploring ways to transform quantitative ideas into real-world investment solutions
+## ✨ Fun Facts
+- I combine **math, algorithms, and markets** to build decision systems  
+- Coffee + late-night coding = my natural habitat
 
 ---
 
