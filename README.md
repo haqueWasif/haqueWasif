@@ -77,10 +77,10 @@
 ---
 
 ## ✨ Fun Facts  
-- ⚡ Love mixing **math, coding & finance** to build smart systems  
-- 🎮 Gamer mindset: strategy + logic + adaptability  
-- ☕ Coffee fuels my late-night coding sessions  
-- 🧩 Always curious to see how ideas can turn into systems  
+- ⚡ Passionate about blending **math, algorithms, and markets** to create intelligent trading systems  
+- 📊 Trader mindset: pattern recognition, risk management, and strategy optimization  
+- ☕ Fueled by coffee during intense market analysis and coding marathons  
+- 🧩 Always exploring ways to transform quantitative ideas into real-world investment solutions
 
 ---
 
