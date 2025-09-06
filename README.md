@@ -20,15 +20,15 @@
   <a href="mailto:haquewasiful2014@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/Black.Goku01/" target="blank"><img src="https://img.shields.io/badge/Facebook-1e90ff?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://github.com/haqueWasif" target="blank"><img src="https://img.shields.io/badge/GitHub-1e90ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/your-handle" target="blank"><img src="https://img.shields.io/badge/Codeforces-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/your-handle" target="blank"><img src="https://img.shields.io/badge/CodeChef-1e90ff?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/HaqueWasif" target="blank"><img src="https://img.shields.io/badge/Codeforces-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/haquewasif01" target="blank"><img src="https://img.shields.io/badge/CodeChef-1e90ff?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools  
 <p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+<a íhref="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://matlab.mathworks.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a> 
