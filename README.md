@@ -66,6 +66,14 @@ Building automated businesses and intelligence platforms:
 
 ---
 
+## 🎮 Software Engineering & Early Projects
+
+| Project | Description | Deployment & Repo |
+|--------|------------|------|
+| **👾 Game of Life** | Conway’s Game of Life simulation built in C++ and Python. My very first game project showcasing foundational logic and systems programming! | [🔗 Source Code](https://github.com/haqueWasif/Game-Of-Life.git) |
+
+---
+
 ## 📊 Algorithmic Trading & Quant Portfolio  
 
 > **[⚙️ Master Algo Trading Repository](https://github.com/haqueWasif/Algorithmic-Trading.git)** > A comprehensive, centralized collection of my quantitative models, algorithmic strategies, and custom trading bots designed for varying market conditions.
