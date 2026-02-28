@@ -68,11 +68,14 @@ Building automated businesses and intelligence platforms:
 
 ## 📊 Algorithmic Trading & Quant Portfolio  
 
-| Project | Description | Tech Stack | Link |
-|--------|------------|------------|------|
-| **⚙️ Algo Trading Portfolio** | Master repository of my strategies: MA Crossover with LSTM, Automated ICT, MQL5 bots (RangeBreakout, FVG), Scalping, Day & Swing models. | Python · MT5 · MQL5 | [🔗 View Portfolio](https://github.com/haqueWasif/Algorithmic-Trading.git) |
-| **🤖 Arbitrage Trading Bot** | Cross-exchange arbitrage with real-time PnL tracking. | Python · PostgreSQL · CCXT | [🔗 View Project](https://github.com/haqueWasif/Arbitrage-Bot) |
-| **📉 FVG Trading Strategy Bot** | Detects Fair Value Gaps & sends real-time Telegram alerts. | Python · Django · MQL5 | [🔗 View Project](https://github.com/haqueWasif/FVG-Trading-Strategy-Bot) |
+> **[⚙️ Master Algo Trading Repository](https://github.com/haqueWasif/Algorithmic-Trading.git)** > A comprehensive, centralized collection of my quantitative models, algorithmic strategies, and custom trading bots designed for varying market conditions.
+
+**Key Strategies & Systems Included:**
+- **🤖 Arbitrage Trading Bot:** Cross-exchange arbitrage strategies with real-time PnL tracking using Python, PostgreSQL, and CCXT.
+- **📉 Smart Money Concepts (SMC):** Automated ICT strategies, Fair Value Gap (FVG) detection, and Supply-Demand zone algorithms with real-time Telegram alerts.
+- **📈 Deep Learning Models:** Moving Average Crossover strategies powered by Long Short-Term Memory (LSTM) neural networks.
+- **⚙️ MQL5 Expert Advisors (EAs):** Custom-built trading bots including Range Breakout EAs, FVG EAs, and high-frequency execution scripts.
+- **⏱️ Diversified Trading Models:** Robust architectures covering Scalping, Day Trading, and Swing Trading methodologies.
 
 ---
 
