@@ -81,13 +81,23 @@ Building automated businesses and intelligence platforms:
 
 ## 🏆 Achievements & Research  
 
-- ✅ **AI Research:** Published research on forecasting models utilizing BiLSTM, XGBoost, and signal decomposition techniques (EMD, VMD) at an IEEE conference.
-- ✅ **Quant Milestones:** Successfully passed multiple funded trading account challenges using custom risk-management models.
-- ✅ **Systems Architecture:** Built high-frequency algorithms and LLM-powered multi-agent frameworks.
+### 🏅 Competitions & Milestones
+- 🥈 **2nd Place (Kaggle):** Achieved a 1.276 MAE in the *Crab Age Prediction* competition.
+- ✅ **Quant Trading:** Successfully passed multiple funded trading account challenges using custom risk-management models and high-frequency algorithms.
+- 💻 **Competitive Programming:** Active participant with rankings as **Pupil** on Codeforces and **3★ Coder** on CodeChef.
+
+### 📚 Published Research
+- 📖 ***A Hybrid Model for Forecasting Solar Electricity in Bangladesh using SARIMA*** - **Conference:** IEEE
+  - [🔗 Read Publication](https://ieeexplore.ieee.org/document/11258051)
+
+### ⏳ Ongoing Journal Research
+- 🔬 ***Short Term Forecasting of Solar Electricity Generation in Bangladesh*** – Using BiLSTM and XGBoost hybrid models with EMD, VMD signal decomposition and ACN Normalization.
+- 🔬 ***Comparison study on synthetic missing value generation and imputation*** – Focused on Coronary Heart Disease Detection.
+- 🔬 ***Actuarial pricing on insurance fraudulent claims and frequency claims*** – Modeling claim severity and frequency for risk assessment.
 
 ---
 
-## 📈 GitHub Analytics & Coding Profiles  
+## 📈 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haqueWasif&show_icons=true&theme=tokyonight&hide_border=true&title_color=1e90ff&icon_color=1e90ff" height="165" />
@@ -98,9 +108,7 @@ Building automated businesses and intelligence platforms:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haqueWasif&theme=tokyonight&hide_border=true&ring=1e90ff&currStreakLabel=1e90ff" height="170"/>
 </p>
 
-### 💻 Competitive Programming  
-- Codeforces: **Pupil** 🟢  
-- CodeChef: **3★ Coder** ---
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c4ff,100:1e90ff&height=120&section=footer"/>
