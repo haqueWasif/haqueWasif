@@ -70,7 +70,7 @@ Building automated businesses and intelligence platforms:
 
 | Project | Description | Deployment & Repo |
 |--------|------------|------|
-| **👾 Game of Life** | Conway’s Game of Life simulation built in C++ and Python. My very first game project showcasing foundational logic and systems programming! | [🔗 Source Code](https://github.com/haqueWasif/Game-Of-Life.git) |
+| **👾 Game of Life** | Conway’s Game of Life simulation built in C++. My very first game project showcasing foundational logic and systems programming! | [🔗 Source Code](https://github.com/haqueWasif/Game-Of-Life.git) |
 
 ---
 
